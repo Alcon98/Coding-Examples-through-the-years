@@ -1,0 +1,40 @@
+Parameter name			Parameter symbol			Value
+
+Fox Carrying Capacity			Kf				1544
+
+Energetic estimate of resource competition between skunks and foxes – effect of foxes on skunks:	ßsf	2.76
+Energetic estimate of resource competition between skunks and foxes – effect of skunks on foxes:	βfs	0.36
+
+Preference of an eagle for a fox as prey compared to a piglet:						ɸ       8.1
+Preference of an eagle for a skunk as prey compared to a piglet:					σ     *	3.1
+
+Fox intrinsic growth rate		rf				0.32
+
+Skunk carrying capacity			Ks				2490
+
+Pig carrying capacity			Kp                	   *	15189
+
+Pig intrinsic growth rate		rp                            *	0.78
+
+Fox population at start of study (initial population):	F(0)	1312
+
+Pig population at start of study (initial population):	P(0)	13827
+-	Initial piglet population (51% of total pig pop.:      Pi(0)	7051
+
+Skunk intrinsic growth rate		rs				0.32 (assumed to be = to fox intrinsic growth rate)
+
+Skunk population at start of study (initial population)	S(0)	1000 (assumed due to lack of data)
+
+Eagle mortality rate			v				0.09
+
+Rate of predation on foxes		µf				0.086
+Rate of predation on skunk		µs				0.159 (estimated)
+Rate of predation on pigs		µp                	  *	0.019
+
+Time necessary for a pair of eagles to produce an adult eagle	τ	5 (it’s comparable to the generation time of 5 years)
+
+Rate at which foxes are turned into new predators (conversion of prey intake to predator offspring)	λf	0.00077
+Rate at which pigs are turned into new predators (conversion of prey intake to predator offspring)	λp    *	0.00077
+Rate at which skunks are turned into new predators (conversion of prey intake to predator offspring)	λs	0.00025
+
+Initial Eagle population		E(0)				2
